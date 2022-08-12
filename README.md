@@ -1,6 +1,6 @@
 ### Hi ruban 👋
 
-![foto](/assets/images/tux.png)
+![foto](./seni teater.jpg)
 
 <!--
 **rubandhika/rubandhika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
